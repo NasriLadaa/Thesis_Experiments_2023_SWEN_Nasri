@@ -1,8 +1,8 @@
 # Identifying Non-Functional Requirements from Mobile Apps User’s Reviews using Deep Learning
 #### Faculty of Engineering and Technology Master of Software Engineering
-#### Birzeit University 
+#### <a href="https://www.birzeit.edu/ar"> Birzeit University </a>
 #### Supervisor: Dr. Abualseoud Hanani
-#### Student name: Nasri Ladaa
+#### Student name: <a href="https://www.linkedin.com/in/nasriladaa/" > Nasri Ladaa </a>
 
 ## Abstract
 Nowadays, smartphones are so essential without them life seems impossible.
